@@ -6,7 +6,7 @@ Metodo de biseccion
 
 @author: osbal 
 """
-
+ 
 import matplotlib.pyplot as plt
 import numpy as np
 
