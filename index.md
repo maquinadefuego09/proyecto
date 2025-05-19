@@ -29,7 +29,7 @@
 ***Tarea 6*** 
 
 
-***chanmoy***
+***chamoy***
 
 ![chamoy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0uHwtEOA91L9ablrtZBgZHd0fXiRuG0ivg&s)
 
