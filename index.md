@@ -40,6 +40,10 @@
    1. [Interpolacion](https://github.com/maquinadefuego09/proyecto/blob/main/Regresion%20Lineal.py)
    2. [Regresion Lineal](https://github.com/maquinadefuego09/proyecto/blob/main/Regresion%20Lineal.py)
 
+
+
+![Best profe](https://i.ytimg.com/vi/X2Osytcx8qA/sddefault.jpg)
+
 ![Regresion Lineal](https://belver.clavijero.edu.mx/cursos/nme/semestre5/probyest_1/s4/contenidos/t2p3f01.png)
 
 
