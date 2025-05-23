@@ -70,10 +70,6 @@ plt.legend()
 plt.show()
 
 
-
-import numpy as np
-import matplotlib.pyplot as plt
-
 valores_x = np.array([1, 2, 3, 5, 7])
 valores_y = np.array([3, 6, 19, 99, 291])
 
