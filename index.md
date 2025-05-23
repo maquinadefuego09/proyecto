@@ -41,6 +41,7 @@ matrices y aplicando la solucion por determinantes
   - Matriz inversa
   - Descomposicion de Lu
   - Descompocision de Cholesky
+
 Para la ultima matriz, realizamos la solucion a travez de procesos de iteaciones
   - Jacobi
   - Gauss-Eidel
