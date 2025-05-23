@@ -45,11 +45,7 @@
    1. [Interpolacion](https://github.com/maquinadefuego09/proyecto/blob/main/Regresion%20Lineal.py)
    2. [Regresion Lineal](https://github.com/maquinadefuego09/proyecto/blob/main/Regresion%20Lineal.py)
 
-***Regersion Lineal***
-![Regresion Lineal]([https://www.google.com/imgresq=regresi%C3%B3n%20lineal%20f%C3%B3rmula&imgurl=https%3A%2F%2Fbelver.clavijero.edu.mx%2Fcursos%2Fnme%2Fsemestre5%2Fprobyest_1%2Fs4%2Fcontenidos%2Ft2p3f01.png&imgrefurl=https%3A%2F%2Fbelver.clavijero.edu.mx%2Fcursos%2Fnme%2Fsemestre5%2Fprobyest_1%2Fs4%2Fcontenidos%2Fregresin_lineal.html&docid=GIHehME-w-rF0M&tbnid=dHT-Sga62xtWnM&vet=12ahUKEwilyqm15biNAxUJ38kDHUS7DcsQM3oECCcQAA..i&w=694&h=272&hcb=2&ved=2ahUKEwilyqm15biNAxUJ38kDHUS7DcsQM3oECCcQAA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aulaclic.es%2Festadistica-excel%2Ft_10_7.htm&psig=AOvVaw2qXxnhFjTo1apiqHRpJn9p&ust=1748062235063000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDTgYrmuI0DFQAAAAAdAAAAABAV))
+![Regresion Lineal](https://belver.clavijero.edu.mx/cursos/nme/semestre5/probyest_1/s4/contenidos/t2p3f01.png)
 
-***chamoy***
-
-![chamoy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL0uHwtEOA91L9ablrtZBgZHd0fXiRuG0ivg&s)
 
 
