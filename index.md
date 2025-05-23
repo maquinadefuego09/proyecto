@@ -48,6 +48,7 @@ para muchos, donde repasamos cosas que teniamos oxidadadas y abarcamos correctam
 temas y los objetivos que planetamos al inicio de las clases, no queda mas que decir que:
 
 ***¡Gracias por tanto, perdon por tan poco profe!***
+
 ![Best profe](https://i.ytimg.com/vi/X2Osytcx8qA/sddefault.jpg)
 
 
