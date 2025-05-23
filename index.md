@@ -27,7 +27,8 @@
    2. [Derivadas](https://github.com/maquinadefuego09/proyecto/blob/main/Derivadas%20final%201.py)
 
 ***Tarea 6*** 
-
+   1. [Interpolacion](https://github.com/maquinadefuego09/proyecto/blob/main/Regresion%20Lineal.py)
+   2. [Regresion Lineal](https://github.com/maquinadefuego09/proyecto/blob/main/Regresion%20Lineal.py)
  
 ***chamoy***
 
