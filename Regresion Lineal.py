@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu May 22 22:10:47 2025
-
+Osbaldo Corpus Castillo
+348071
+Progrmacion Numerica
 @author: osbal
 """
 
